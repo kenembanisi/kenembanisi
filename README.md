@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kenembanisi
 - 👀 I’m interested in shared autonomy in (semi-)autonomous vehicles, haptics, robust outdoor robot navigation, social navigation, robotics education
-- 🌱 I’m actively learning and working on robot spatial intelligence ( SLAM + Scene understanding + Pose estimation ), learning-based robot navigation
+- 🌱 I’m actively learning and working on robot spatial intelligence ( SLAM + Scene understanding ), learning-based robot navigation
 - 📫 How to reach me on kene.mbanisi@gmail.com by email, and find more about my projects here: https://kenembanisi.github.io/
 <!-- - 💞️ I’m looking to collaborate on  -->
 
